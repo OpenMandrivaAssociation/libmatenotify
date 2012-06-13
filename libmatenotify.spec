@@ -1,11 +1,11 @@
 %define major	1
-%define libname	%mklibname notify %{major}
-%define devname %mklibname -d notify
+%define libname	%mklibname matenotify %{major}
+%define devname %mklibname -d matenotify
 
 Summary:	Desktop notifications library
 Name:		libmatenotify
 Version:	1.2.0
-Release:	1
+Release:	2
 License:	LGPLv2+
 Group:		System/Libraries
 URL:		http://mate-desktop.org

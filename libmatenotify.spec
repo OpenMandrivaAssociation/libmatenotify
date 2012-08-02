@@ -4,12 +4,12 @@
 
 Summary:	Desktop notifications library
 Name:		libmatenotify
-Version:	1.2.0
-Release:	2
+Version:	1.4.0
+Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
 URL:		http://mate-desktop.org
-Source0:	http://pub.mate-desktop.org/releases/1.2/%{name}-%{version}.tar.xz
+Source0:	http://pub.mate-desktop.org/releases/1.4/%{name}-%{version}.tar.xz
 
 Buildrequires:	gtk-doc
 Buildrequires:	mate-common

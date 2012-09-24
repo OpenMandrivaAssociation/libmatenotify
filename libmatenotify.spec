@@ -4,7 +4,7 @@
 
 Summary:	Desktop notifications library
 Name:		libmatenotify
-Version:	1.4.0
+Version:	1.4.1
 Release:	1
 License:	LGPLv2+
 Group:		System/Libraries

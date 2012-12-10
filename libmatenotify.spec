@@ -65,3 +65,18 @@ NOCONFIGURE=yes ./autogen.sh
 %{_includedir}/*
 %doc %{_datadir}/gtk-doc/html/*
 
+
+
+%changelog
+* Thu Aug 02 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.4.0-1
++ Revision: 811550
+- new version 1.4
+
+* Wed Jun 13 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.2.0-2
++ Revision: 805472
+- rebuild correcting lib & dev pkg names
+
+* Thu May 31 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.2.0-1
++ Revision: 801654
+- imported package libmatenotify
+
